@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarvFS
-- 👀 I’m interested in neural networks with applications in physical and chemical sciences
-- 🌱 I’m currently learning python and tensorflow
-- 💞️ I’m looking to collaborate on any research topic in which I could contribute
+- 👀 I’m interested in neural networks with applications in physical and chemical sciences.
+- 🌱 I’m currently learning Python, C and MPI.
+- 💞️ I’m looking to collaborate on any research topic that I can contribute to.
 - 📫 How to reach me felipe.s.carvalho_qui@hotmail.com
 
 <!---
