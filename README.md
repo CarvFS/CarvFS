@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarvFS
 - 👀 I’m interested in neural networks with applications in physical and chemical sciences.
-- 🌱 I’m currently learning Python, C and MPI.
+- 🌱 I’m currently learning Python, C and C++. I have interest in applying parallel programming (such as MPI and CUDA) to solve chemical and physical problems.
 - 💞️ I’m looking to collaborate on any research topic that I can contribute to.
 - 📫 How to reach me felipe.s.carvalho_qui@hotmail.com
 
